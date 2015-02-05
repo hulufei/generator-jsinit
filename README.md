@@ -7,7 +7,12 @@
 - .editorconfig
 - .jshintrc（参考 [jshint-practice](https://github.com/popomore/jshint-practice)）
 
-## MAYBE
+## Usage
+
+- `npm install -g yo generator-jsinit`
+- `yo jsinit`
+
+## Maybe
 
 有其他需要可以借鉴
 [generator-sublime](https://github.com/thaiat/generator-sublime)
